@@ -1,0 +1,2 @@
+obj\x86\Debug\Workflow1.g.xaml
+obj\x86\Debug\Full_direct_of_two_machines__ISLab1__Workflow1_BeforeInitializeComponentHelper.txt

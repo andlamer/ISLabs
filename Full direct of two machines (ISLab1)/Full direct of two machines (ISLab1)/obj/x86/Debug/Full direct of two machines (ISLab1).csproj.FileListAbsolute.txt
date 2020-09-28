@@ -1,0 +1,18 @@
+C:\Users\андрей\source\repos\Full direct of two machines (ISLab1)\Full direct of two machines (ISLab1)\bin\Debug\Full direct of two machines (ISLab1).exe.config
+C:\Users\андрей\source\repos\Full direct of two machines (ISLab1)\Full direct of two machines (ISLab1)\bin\Debug\Full direct of two machines (ISLab1).exe
+C:\Users\андрей\source\repos\Full direct of two machines (ISLab1)\Full direct of two machines (ISLab1)\bin\Debug\Full direct of two machines (ISLab1).pdb
+C:\Users\андрей\source\repos\Full direct of two machines (ISLab1)\Full direct of two machines (ISLab1)\obj\x86\Debug\Full direct of two machines (ISLab1).csprojAssemblyReference.cache
+C:\Users\андрей\source\repos\Full direct of two machines (ISLab1)\Full direct of two machines (ISLab1)\obj\x86\Debug\Workflow1.g.xaml
+C:\Users\андрей\source\repos\Full direct of two machines (ISLab1)\Full direct of two machines (ISLab1)\obj\x86\Debug\Full_direct_of_two_machines__ISLab1__Workflow1_BeforeInitializeComponentHelper.txt
+C:\Users\андрей\source\repos\Full direct of two machines (ISLab1)\Full direct of two machines (ISLab1)\obj\x86\Debug\_Full direct of two machines (ISLab1).g.cs
+C:\Users\андрей\source\repos\Full direct of two machines (ISLab1)\Full direct of two machines (ISLab1)\obj\x86\Debug\Workflow1.g.cs
+C:\Users\андрей\source\repos\Full direct of two machines (ISLab1)\Full direct of two machines (ISLab1)\obj\x86\Debug\Full_direct_of_two_machines__ISLab1__Workflow1_BeforeInitializeComponentHelper.cs
+C:\Users\андрей\source\repos\Full direct of two machines (ISLab1)\Full direct of two machines (ISLab1)\obj\x86\Debug\Full direct of two machines (ISLab1).csproj.XamlGeneratedCodeFileListAbsolute.txt
+C:\Users\андрей\source\repos\Full direct of two machines (ISLab1)\Full direct of two machines (ISLab1)\obj\x86\Debug\Full direct of two machines (ISLab1).csproj.XamlGeneratedXamlFileListAbsolute.txt
+C:\Users\андрей\source\repos\Full direct of two machines (ISLab1)\Full direct of two machines (ISLab1)\obj\x86\Debug\Full direct of two machines (ISLab1).csproj.XamlPass2Flag.txt
+C:\Users\андрей\source\repos\Full direct of two machines (ISLab1)\Full direct of two machines (ISLab1)\obj\x86\Debug\Full direct of two machines (ISLab1).dll
+C:\Users\андрей\source\repos\Full direct of two machines (ISLab1)\Full direct of two machines (ISLab1)\obj\x86\Debug\Full direct of two machines (ISLab1).pdb
+C:\Users\андрей\source\repos\Full direct of two machines (ISLab1)\Full direct of two machines (ISLab1)\obj\x86\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+C:\Users\андрей\source\repos\Full direct of two machines (ISLab1)\Full direct of two machines (ISLab1)\obj\x86\Debug\Full direct of two machines (ISLab1).csproj.CoreCompileInputs.cache
+C:\Users\андрей\source\repos\Full direct of two machines (ISLab1)\Full direct of two machines (ISLab1)\obj\x86\Debug\Full direct of two machines (ISLab1).exe
+C:\Users\андрей\source\repos\Full direct of two machines (ISLab1)\Full direct of two machines (ISLab1)\obj\x86\Debug\Full direct of two machines (ISLab1).csproj.FileListAbsolute.txt
